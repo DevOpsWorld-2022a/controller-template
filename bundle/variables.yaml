@@ -1,0 +1,4 @@
+variables:
+- team: DevOpsWorld-2022a
+- admin-user: cbenge-cloudbees-admin
+- manager-user: cbenge-cloudbees
